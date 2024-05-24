@@ -1,0 +1,8 @@
+<gresources>
+  <gresource prefix="/com/iron_and_blood/launcher">
+    <file>assets/style.css</file>
+    <file>assets/bg.png</file>
+    <file>assets/logo.png</file>
+  </gresource>
+</gresources>
+

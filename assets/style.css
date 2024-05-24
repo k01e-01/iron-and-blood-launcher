@@ -1,0 +1,22 @@
+button {
+  color: #181825;
+  background: #FFFFFF;
+  font: 24px Arial;
+  font-weight: bold;
+}
+
+.Revert {
+  background: #CD5F66;
+}
+
+.Docs {
+  background: #F5E1A2;
+}
+
+.Discord {
+  background: #7289da;
+}
+
+.Launch {
+  background: #92D293;
+}
